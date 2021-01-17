@@ -1,0 +1,20 @@
+ALGORITHM phase
+VAR
+ch:String;
+i,nb_mots:number
+BEGIN
+    // fonction nb_caractere
+    fonction nb_caractere(ch)
+    Read(ch);
+    Write("donner les nombre de caractere dans ch");
+    // fonction nb_voyelle
+    fonction nb_voyelle(ch)
+    Read(ch);
+    Write("donner les nombre de voyelle dans ch");
+  // fonction nb_caractere
+  fonction nb_mots(ch)
+  Read(ch);
+  Write("donner les nombre de mots dans ch");
+
+    
+END
